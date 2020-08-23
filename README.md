@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **halbas.work@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://ahmedhalbas.me](https://ahmedhalbas.me)
+
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhalbas&layout=compact&hide=html" alt="ahmedhalbas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhalbas&show_icons=true" alt="ahmedhalbas" /></p>
