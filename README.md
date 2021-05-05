@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhalbas" alt="ahmedhalbas" /> </p>
 
-- 🔭 I’m currently working on [Awakey](https://github.com/AhmedHalbas/Awakey)
 
 - 🌱 I’m currently learning **Flutter**
 
