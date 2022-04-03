@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **ahmedessamhalbas@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://ahmedhalbas.me](https://ahmedhalbas.me)
+- 👨‍💻 All of my projects are available at [https://ahmedhalbas.tech](https://ahmedhalbas.tech)
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhalbas&layout=compact&hide=html" alt="ahmedhalbas" /></p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhalbas&layout=compact&hide=html" alt="." /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhalbas&show_icons=true" alt="ahmedhalbas" /></p>
 
