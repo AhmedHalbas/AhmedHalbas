@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhalbas&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhalbas" /> </p>
 
-- 🌱 I’m currently learning **React Native & NodeJS**
+- 🌱 I’m currently learning **React Native & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://ahmedhalbas.tech](https://ahmedhalbas.tech)
 
