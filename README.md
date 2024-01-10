@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native & NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://ahmedhalbas.com](https://ahmedhalbas.com)
+- 👨‍💻 All of my projects are available at [https://ahmedhalbas.tech](https://ahmedhalbas.tech)
 
 - 📝 I regularly write articles on [https://dev.to/ahmedhalbas](https://dev.to/ahmedhalbas)
 
