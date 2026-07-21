@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmedessamhalbas@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/CW014](https://shorturl.at/CW014)
+- 📄 Know about my experiences [https://bit.ly/4ffL9hX](https://bit.ly/4ffL9hX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
